@@ -1,0 +1,10 @@
+# to store logs of a terraform 
+# export TF_LOG_PATH=/tmp/terralogs.txt 
+
+
+#types of log levels
+1.TRACE     TF_LOG=TRACE
+2.ERRORS    ----//---
+3.DEBUG     ----//----
+
+
